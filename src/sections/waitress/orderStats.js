@@ -20,7 +20,7 @@ class OrderStats extends Component {
         const orders = [];
 
         querySnapshot.forEach(doc => {
-          console.log(doc.data());
+          // console.log(doc.data());
           const dataOrder = doc.data();
           orders.push(dataOrder);
           console.log("STATE:", this.state)
