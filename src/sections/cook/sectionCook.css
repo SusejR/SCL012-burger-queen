@@ -1,0 +1,35 @@
+.receivedOrders {
+    background-color: #f18f01;
+}
+
+.readyOrders {
+    background-color: #2a2d34;
+}
+
+.containersOrders {
+    width: 35%;
+    margin: 2em 2em;
+    height: 700px;
+}
+
+.orderCardsDiv {
+    height: 650px;
+    overflow-y: scroll;
+    padding: 0 1em 1em 1em;
+    border-radius: 10px;
+}
+
+.buttonsModal {
+    display: flex;
+    justify-content: space-around;
+}
+
+.titleContent {
+    padding-bottom: 0.5em;
+    color: #17bebb;
+    font-weight: 700;
+}
+
+.modal-content {
+    margin-top: 15em;
+}

@@ -1,0 +1,56 @@
+.ready-cards {
+    font-family: 'Roboto';
+    display: flex;
+    flex-direction: column;
+    background-color: #f18f01;
+    height: fit-content;
+    width: 100%;
+    margin-top: 1em;
+    padding: 0.5em;
+    border-radius: 10px;
+    color: #2a2d34;
+}
+
+.identification-ready {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    color: #fff;
+}
+
+.identification-ready p {
+    margin-bottom: 0.5em;
+}
+
+.status-ready {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+} 
+
+.status-ready p {
+    margin-bottom: 0;
+}
+ 
+.item-ready {
+    margin-bottom: 0;
+    color: #2a2d34;
+}
+
+.mainItem-ready {
+    font-weight: 500;
+}
+
+.subMenus-ready {
+    margin-left: 1.5em;
+}
+
+.preparation-ready {
+    color: #e4572e;
+    font-weight: bold;
+}
+
+.cooked-ready {
+    color: #297933;
+    font-weight: bold;
+}

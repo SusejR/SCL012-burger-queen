@@ -1,0 +1,8 @@
+.cookDiv {
+    display: flex;
+    justify-content: center;
+}
+
+.backButton {
+    margin-top: 2em;
+}
